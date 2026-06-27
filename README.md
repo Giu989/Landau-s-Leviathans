@@ -14,7 +14,11 @@ This repository provides ancillary files for the paper: Landau's Leviathans
     * Contains the Landau singularitites for diagram a)
 
 - `singularities_b`:
-    * Contains the Landau singularitites for diagram b)
+    * Contains the Landau singularitites for diagram b) in generic d dimensional external kinematics
+    * Contains the Landau singularitites for diagram b) in generic 4 dimensional external kinematics
+    * Contains conversion rules to specialise to $$d = 4$$
 
 - `singularities_c`:
-    * Contains the Landau singularitites for diagram c)
+    * Contains the Landau singularitites for diagram c) in generic d dimensional external kinematics
+    * Contains the Landau singularitites for diagram c) in generic 4 dimensional external kinematics
+    * Contains conversion rules to specialise to $$d = 4$$
