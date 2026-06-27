@@ -10,11 +10,11 @@ This repository provides ancillary files for the paper: Landau's Leviathans
     * Contains the proof of concept function SPQRLandau as well as various other helper functions. 
     * Contains a demo Mathematica notebook demoing the usage of these functions.
 
-- `a`:
+- `singularities_a`:
     * Contains the Landau singularitites for diagram a)
 
-- `b`:
+- `singularities_b`:
     * Contains the Landau singularitites for diagram b)
 
-- `c`:
+- `singularities_c`:
     * Contains the Landau singularitites for diagram c)
