@@ -15,6 +15,9 @@
 Off[FF::logerr]
 
 
+If[!And[MemberQ[$ContextPath,"SPQR`"],MemberQ[$ContextPath,"DiscKosky`"]],Print["ERROR: SPQR and DiscKosky not loaded. Functions will work correctly."];];
+
+
 (* ::Subsection:: *)
 (*Degeneracy Checks*)
 
