@@ -1,6 +1,6 @@
-# Landau's Leviathans
+# Landau's Leviathans [2606.29612](https://arxiv.org/abs/2606.29612)
 
-This repository provides ancillary files for the paper: Landau's Leviathans
+This repository provides ancillary files for the paper: Landau's Leviathans, arXiv: 2606.29612
 
 ## Authors: Vsevolod Chestnov, Giulio Crisanti, Mathieu Giroux
 
