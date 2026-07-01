@@ -28,4 +28,5 @@ sectorsA[[2]]["Singularities"]
 sectorsA[[2]]["Method"]
 
 
-
+(*Note that tadpoles are not drawn*)
+sectorsA[[-4]]["Graph"][[1]]
